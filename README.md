@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hey there! I'm Suyash Patil 👋
 
-<!--
-**SuyashPatil-max/SuyashPatil-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pre-final Year B.Tech @ IIT Roorkee | ML • Data Science • MLOps
 
-Here are some ideas to get you started:
+I'm a Production & Industrial Engineering student at IIT Roorkee interested in
+building practical, production-oriented machine learning systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the ML lifecycle — from data preparation and model
+development to experiment tracking, versioning, deployment and automation.
+
+I'm particularly interested in **Machine Learning, Data Science and MLOps**,
+and enjoy solving real-world problems using data and technology.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Building end-to-end **Machine Learning & MLOps systems**
+- 📊 Exploring **Data Science and data-driven problem solving**
+- ⚙️ Learning more about **ML deployment, automation and production systems**
+- 🛠️ Building projects that go beyond notebooks into deployable applications
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Machine Learning & Data
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
+
+### MLOps & Experimentation
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+
+### Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+### Version Control & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## ⭐ Featured Project
+
+### 🚕 Uber Ride Outcome Intelligence System
+
+End-to-end ML/MLOps pipeline for ride outcome prediction.
+
+- CatBoost binary classification
+- SMOTE for class imbalance
+- **0.957 ROC-AUC**
+- **97.1% recall**
+- Optuna hyperparameter optimization
+- MLflow experiment tracking & model management
+- DVC + AWS S3 for data versioning
+- FastAPI inference backend
+- Docker containerization
+- CI/CD deployment on AWS
+
+🔗 [View Project](https://github.com/SuyashPatil-max/UBER_DVC)
+
+---
+
+## 🏎️ Leadership & Experience
+
+### SAE IIT Roorkee
+**Head of Sponsorship**
+
+- Secured **4 sponsorship partnerships**, including OK Tubes
+- Worked on monetary funds and in-kind support for Go-Kart manufacturing
+- Managed sponsor outreach, proposals, negotiations and coordination
+
+### Career Development Cell, IIT Roorkee
+**Promotion & Marketing Manager**
+
+- Promoted CDC initiatives and events across the IIT Roorkee campus
+- Created promotional reels for placement and internship drives
+- Worked on event marketing, campaign planning and outreach
+
+---
+
+## 🎓 Education
+
+**Indian Institute of Technology, Roorkee**
+
+B.Tech — Production & Industrial Engineering  
+2024 – 2028
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 🐙 [GitHub](https://github.com/SuyashPatil-max)
+
+I'm always interested in learning, building and collaborating on
+real-world problems using technology.
