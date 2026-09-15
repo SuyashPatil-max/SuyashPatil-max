@@ -51,26 +51,6 @@ and enjoy solving real-world problems using data and technology.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-##  Featured Project
-
-###  Uber Ride Outcome Intelligence System
-
-End-to-end ML/MLOps pipeline for ride outcome prediction.
-
-- CatBoost binary classification
-- SMOTE for class imbalance
-- **0.957 ROC-AUC**
-- **97.1% recall**
-- Optuna hyperparameter optimization
-- MLflow experiment tracking & model management
-- DVC + AWS S3 for data versioning
-- FastAPI inference backend
-- Docker containerization
-- CI/CD deployment on AWS
-
-🔗 [View Project](https://github.com/SuyashPatil-max/UBER_DVC)
 
 ---
 
