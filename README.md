@@ -15,17 +15,17 @@ and enjoy solving real-world problems using data and technology.
 
 ## About Me
 
-- 🎓 Pre-final year **B.Tech @ IIT Roorkee**
-- 🤖 Building **Machine Learning & MLOps systems**
-- 📊 Exploring **Data Science, AI & data-driven problem solving**
-- ⚙️ Interested in **ML pipelines, deployment, automation & production systems**
-- 🧠 Working across **model development → experimentation → versioning → deployment**
-- 🛠️ Tech interests include **Python, Scikit-learn, CatBoost, MLflow, DVC, Docker, FastAPI & AWS**
-- 🚕 Built an **end-to-end ML/MLOps pipeline** for Uber ride outcome prediction
-- 🏎️ **Head of Sponsorship @ SAE IIT Roorkee**
-- 📣 **Promotion & Marketing @ Career Development Cell, IIT Roorkee**
-- 🌱 Currently learning how to build **reliable, scalable ML systems**
-- 🤝 Looking to collaborate on **real-world problems with ML & AI**
+- Pre-final year **B.Tech @ IIT Roorkee**
+- Building **Machine Learning & MLOps systems**
+- Exploring **Data Science, AI & data-driven problem solving**
+- Interested in **ML pipelines, deployment, automation & production systems**
+- Working across **model development → experimentation → versioning → deployment**
+- Tech interests include **Python, Scikit-learn, CatBoost, MLflow, DVC, Docker, FastAPI & AWS**
+- Built an **end-to-end ML/MLOps pipeline** for Uber ride outcome prediction
+- **Head of Sponsorship @ SAE IIT Roorkee**
+- **Promotion & Marketing @ Career Development Cell, IIT Roorkee**
+- Currently learning how to build **reliable, scalable ML systems**
+- Looking to collaborate on **real-world problems with ML & AI**
 
 ---
 
