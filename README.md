@@ -29,7 +29,7 @@ and enjoy solving real-world problems using data and technology.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,9 +53,9 @@ and enjoy solving real-world problems using data and technology.
 
 ---
 
-## ⭐ Featured Project
+##  Featured Project
 
-### 🚕 Uber Ride Outcome Intelligence System
+###  Uber Ride Outcome Intelligence System
 
 End-to-end ML/MLOps pipeline for ride outcome prediction.
 
@@ -74,7 +74,7 @@ End-to-end ML/MLOps pipeline for ride outcome prediction.
 
 ---
 
-## 🏎️ Leadership & Experience
+## Leadership & Experience
 
 ### SAE IIT Roorkee
 **Head of Sponsorship**
@@ -103,7 +103,7 @@ B.Tech — Production & Industrial Engineering
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suyash-patil-990402324/)
 - 🐙 [GitHub](https://github.com/SuyashPatil-max)
 
 I'm always interested in learning, building and collaborating on
