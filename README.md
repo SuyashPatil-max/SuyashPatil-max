@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Building practical machine learning systems that go beyond notebooks —
+  Building practical machine learning systems that go beyond notebooks -
   from data and models to deployment and production.
 </p>
 
@@ -13,8 +13,14 @@
   <a href="https://github.com/SuyashPatil-max">
     <img src="https://img.shields.io/badge/GitHub-SuyashPatil--max-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/IIT%20Roorkee-Production%20%26%20Industrial%20Engineering-1f425f?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/IIT%20Roorkee-1E293B?style=for-the-badge&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/B.Tech-4F46E5?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Production%20%26%20Industrial%20Engineering-2563EB?style=for-the-badge"/>
 </p>
+
 
 
 ---
