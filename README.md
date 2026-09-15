@@ -1,15 +1,21 @@
-# Hey there! I'm Suyash Patil
+<h1 align="center">Hey there! I'm Suyash Patil </h1>
 
-### Pre-final Year B.Tech @ IIT Roorkee | ML • Data Science • MLOps
+<h3 align="center">
+  ML • Data Science • MLOps | B.Tech @ IIT Roorkee
+</h3>
 
-I'm a Production & Industrial Engineering student at IIT Roorkee interested in
-building practical, production-oriented machine learning systems.
+<p align="center">
+  Building practical machine learning systems that go beyond notebooks —
+  from data and models to deployment and production.
+</p>
 
-I enjoy working across the ML lifecycle — from data preparation and model
-development to experiment tracking, versioning, deployment and automation.
+<p align="center">
+  <a href="https://github.com/SuyashPatil-max">
+    <img src="https://img.shields.io/badge/GitHub-SuyashPatil--max-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/IIT%20Roorkee-Production%20%26%20Industrial%20Engineering-1f425f?style=for-the-badge"/>
+</p>
 
-I'm particularly interested in **Machine Learning, Data Science and MLOps**,
-and enjoy solving real-world problems using data and technology.
 
 ---
 
