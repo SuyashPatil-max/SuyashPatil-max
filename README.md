@@ -39,7 +39,7 @@ and enjoy solving real-world problems using data and technology.
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### Data Science & Analysis
 
@@ -50,7 +50,7 @@ and enjoy solving real-world problems using data and technology.
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### Machine Learning
 
@@ -62,21 +62,21 @@ and enjoy solving real-world problems using data and technology.
 <img src="https://img.shields.io/badge/Optuna-4C9AFF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Imbalanced--learn-FF6F00?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### MLOps & Experiment Tracking
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/DagsHub-000000?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### Backend & Model Serving
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### Deployment & Cloud
 
@@ -84,7 +84,7 @@ and enjoy solving real-world problems using data and technology.
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### Version Control & CI/CD
 
