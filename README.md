@@ -59,7 +59,7 @@ and enjoy solving real-world problems using data and technology.
 ### SAE IIT Roorkee
 **Head of Sponsorship**
 
-- Secured **4 sponsorship partnerships**, including OK Tubes
+- Secured **4 sponsorship partnerships**, including Tubes
 - Worked on monetary funds and in-kind support for Go-Kart manufacturing
 - Managed sponsor outreach, proposals, negotiations and coordination
 
