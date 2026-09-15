@@ -6,7 +6,7 @@
 
 <p align="center">
   Building practical machine learning systems that go beyond notebooks -
-  from data and models to deployment and production.
+  from data and models to deployment, production and monitoring
 </p>
 
 <p align="center">
